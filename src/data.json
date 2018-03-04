@@ -1,0 +1,24 @@
+ {
+  "Guests": [
+      {
+        "name": "Iverros",
+        "isConfirm": false,
+        "isEdit": false
+      },
+      {
+        "name": "Corrina",
+        "isConfirm": true,
+        "isEdit": false
+      },
+      {
+        "name": "Joel",
+        "isConfirm": false,
+        "isEdit": false
+      },
+      {
+        "name": "Joel",
+        "isConfirm": false,
+        "isEdit": false
+      }
+      ]
+}
